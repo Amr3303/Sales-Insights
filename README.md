@@ -1,6 +1,6 @@
 # Business Dashboard Overview
 
-<img src="Dashboard.png" sizes="100vw" width="378">
+<img src="Dashboard.png" sizes="300vw" width="700">
 
 ## Introduction
 
